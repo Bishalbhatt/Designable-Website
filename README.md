@@ -1,2 +1,2 @@
 # Designable-Webpage
-A design-able Website with HTML,CSS and Bootstrap
+A design-able Webpage with HTML,CSS and Bootstrap
